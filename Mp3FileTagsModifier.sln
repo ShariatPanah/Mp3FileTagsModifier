@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mp3FileTagsModifier", "Mp3FileTagsModifier\Mp3FileTagsModifier.csproj", "{5091FD8D-FACE-446F-9479-526E28993D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5091FD8D-FACE-446F-9479-526E28993D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5091FD8D-FACE-446F-9479-526E28993D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5091FD8D-FACE-446F-9479-526E28993D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5091FD8D-FACE-446F-9479-526E28993D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A7FA3BD-0316-4076-8211-38AC4C6B6BE3}
+	EndGlobalSection
+EndGlobal
